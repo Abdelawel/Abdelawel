@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdelawel
-- 👀 I’m interested in Cats and NodeJS Projects
+- 👀 I’m interested about Cats and NodeJS Projects
 - 🌱 I’m currently learning ReactJS NextJS
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
